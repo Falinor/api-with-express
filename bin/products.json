@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GLADOM",
+    "price": 19.90,
+    "weight": 3.56
+  },
+  {
+    "name": "LIXHULT",
+    "price": 35,
+    "weight": 8.90
+  },
+  {
+    "name": "MANDAL",
+    "price": 529,
+    "weight": 9.25
+  },
+  {
+    "name": "TOLBO",
+    "price": 799,
+    "weight": 58.50
+  },
+  {
+    "name": "GODMORGON / RÄTTVIKEN",
+    "price": 269,
+    "weight": 55.93
+  }
+]

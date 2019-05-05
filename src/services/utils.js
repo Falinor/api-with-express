@@ -13,7 +13,9 @@ module.exports = logger => {
       });
       next();
     },
-    enableCors: cors(),
+    enableCors: cors({
+      exposedHeaders: ['Location']
+    }),
     returnApplicationJson: (req, res, next) => {
       res.set("Content-Type", "application/json");
       next();

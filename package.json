@@ -4,6 +4,7 @@
   "description": "An API with Express",
   "main": "index.js",
   "scripts": {
+    "seed": "node ./bin/seed-db.js",
     "start": "node ./bin/start",
     "watch": "nodemon ./bin/start",
     "lint": "eslint *.js",
